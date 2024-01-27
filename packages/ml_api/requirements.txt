@@ -1,0 +1,6 @@
+# api
+Flask
+
+# local regression_model package
+# update with your local path
+-e ../regression_model/
